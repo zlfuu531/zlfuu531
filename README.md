@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <em>M.S. in Applied Statistics @ Shanghai University of Finance and Economics (SUFE), 2024 – 2027</em><br>
-  <sub>B.S. in Economic Statistics @ SUFE, 2020 – 2024</sub>
+  <em>M.S. in Applied Statistics, Shanghai University of Finance and Economics (SUFE) · 2024 – 2027</em><br>
+  <sub>B.S. in Economic Statistics, Shanghai University of Finance and Economics (SUFE) · 2020 – 2024</sub>
 </p>
 
 > I build the **data and the yardsticks** that make LLMs better at finance — multimodal reasoning benchmarks (EMNLP ×3), an R1-style financial reasoning LLM (**Fin-R1**, 800+ ★), and agent benchmarks adopted by industry teams.
@@ -16,6 +16,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Papers-6_published-8b17b8?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Papers">
   <img src="https://img.shields.io/badge/EMNLP-2025%20%26%202026-e05369?style=for-the-badge" alt="EMNLP">
+  <a href="https://scholar.google.com/citations?user=b69Frz4AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-100%2B_citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
   <img src="https://img.shields.io/github/stars/SUFE-AIFLM-Lab/Fin-R1?style=for-the-badge&label=Fin-R1&logo=github" alt="Fin-R1 stars">
   <img src="https://img.shields.io/badge/Interned_at-Alibaba%20%C2%B7%20Guotai%20Haitong-f0883e?style=for-the-badge" alt="Internships">
   <img src="https://img.shields.io/badge/2027_New_Grad-Open_to_Work-2ea043?style=for-the-badge" alt="Open to work">
@@ -58,6 +59,7 @@
 
 | Project | About | Stars |
 |:---|:---|:---:|
+| **[PaperHub](https://skymoon11.top/paper)** 🌐 | Self-hosted paper research knowledge base — blog-style reading + AI Deep-Research agent that auto-crawls and structures papers (Next.js · Prisma) | ![Repo](https://img.shields.io/badge/repo-soon-8b949e) |
 | **[QualEval](https://github.com/zlfuu531/QualEval)** | One-stop local QC + evaluation platform — data import → QC → eval, full frontend workflow | ![Stars](https://img.shields.io/github/stars/zlfuu531/QualEval?style=social) |
 | **[OpenReward-verl](https://github.com/zlfuu531/OpenReward-verl)** | Generative reward model training on verl — rubric-based preference evaluation (SFT + GRPO) | ![Stars](https://img.shields.io/github/stars/zlfuu531/OpenReward-verl?style=social) |
 | **[VQA-Data-Generator](https://github.com/zlfuu531/VQA-Data-Generator)** | Multimodal VQA data synthesis pipeline — powers [UniFinEval](https://github.com/aifinlab/UniFinEval) data construction | ![Stars](https://img.shields.io/github/stars/zlfuu531/VQA-Data-Generator?style=social) |
