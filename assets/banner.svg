@@ -1,52 +1,53 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="zlfuu531 — LLM Post-Training, Data Synthesis, Evaluation &amp; Benchmarking">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="曾凌峰 zlfuu531 — LLM Post-Training, Data Synthesis, Evaluation and Benchmarking">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0b1020"/>
-      <stop offset="55%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#1c1038"/>
+      <stop offset="0%" stop-color="#081226"/>
+      <stop offset="52%" stop-color="#0f1b30"/>
+      <stop offset="100%" stop-color="#1b1035"/>
     </linearGradient>
-    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0">
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#58a6ff"/>
-      <stop offset="45%" stop-color="#bc8cff"/>
+      <stop offset="48%" stop-color="#bc8cff"/>
       <stop offset="100%" stop-color="#ff7eb6"/>
     </linearGradient>
-    <linearGradient id="chipStroke" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.9"/>
-      <stop offset="100%" stop-color="#ff7eb6" stop-opacity="0.9"/>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.07"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.02"/>
     </linearGradient>
     <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
-      <circle cx="1.6" cy="1.6" r="1.6" fill="#388bfd" opacity="0.16"/>
+      <circle cx="1.5" cy="1.5" r="1.5" fill="#388bfd" opacity="0.16"/>
     </pattern>
   </defs>
 
-  <rect width="1200" height="330" rx="18" fill="url(#bg)"/>
-  <rect width="1200" height="330" rx="18" fill="url(#dots)"/>
+  <rect width="1200" height="340" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="20" fill="url(#dots)"/>
 
-  <circle cx="1070" cy="30" r="150" fill="#bc8cff" opacity="0.13"/>
-  <circle cx="80" cy="320" r="160" fill="#58a6ff" opacity="0.11"/>
-  <circle cx="640" cy="-50" r="100" fill="#ff7eb6" opacity="0.09"/>
+  <circle cx="1080" cy="28" r="170" fill="#bc8cff" opacity="0.13"/>
+  <circle cx="72" cy="330" r="180" fill="#58a6ff" opacity="0.11"/>
+  <circle cx="620" cy="-52" r="110" fill="#ff7eb6" opacity="0.09"/>
 
-  <text x="1120" y="250" text-anchor="middle" font-family="Georgia, serif" font-size="150" fill="#58a6ff" opacity="0.07">&#931;</text>
-  <text x="95" y="150" text-anchor="middle" font-family="monospace" font-size="56" fill="#bc8cff" opacity="0.08">&lt;/&gt;</text>
+  <text x="1160" y="270" text-anchor="middle" font-family="Georgia, serif" font-size="170" fill="#58a6ff" opacity="0.07">Σ</text>
+  <text x="100" y="160" text-anchor="middle" font-family="monospace" font-size="64" fill="#bc8cff" opacity="0.08">&lt;/&gt;</text>
 
-  <text x="600" y="76" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#8b949e" letter-spacing="6">HI, I AM</text>
+  <text x="82" y="72" font-family="sans-serif" font-size="15" font-weight="600" fill="#7ee787" letter-spacing="4">2027 NEW GRAD · LLM / AGENT / MULTIMODAL</text>
+  <text x="80" y="148" font-family="sans-serif, 'Microsoft YaHei', sans-serif" font-size="62" font-weight="bold" fill="url(#accent)">曾凌峰</text>
+  <text x="82" y="188" font-family="monospace" font-size="26" fill="#e6edf3" letter-spacing="3">zlfuu531</text>
+  <text x="82" y="226" font-family="sans-serif" font-size="20" fill="#c9d1d9">LLM Post-Training · Data Synthesis · Evaluation &amp; Benchmarking</text>
 
-  <text x="600" y="152" text-anchor="middle" font-family="sans-serif" font-weight="bold" font-size="74" fill="url(#acc)" letter-spacing="2">zlfuu531</text>
+  <g font-family="sans-serif">
+    <rect x="712" y="74" width="408" height="42" rx="10" fill="url(#card)" stroke="#58a6ff" stroke-opacity="0.45"/>
+    <text x="732" y="101" font-size="18" fill="#e6edf3">EMNLP 2025 &amp; 2026</text>
 
-  <text x="600" y="198" text-anchor="middle" font-family="sans-serif" font-size="24" fill="#c9d1d9">LLM Post-Training &#183; Data Synthesis &#183; Evaluation &amp; Benchmarking</text>
+    <rect x="712" y="126" width="408" height="42" rx="10" fill="url(#card)" stroke="#bc8cff" stroke-opacity="0.45"/>
+    <text x="732" y="153" font-size="18" fill="#e6edf3">Fin-R1 ★ 800+ Stars · 100+ Citations</text>
 
-  <g font-family="sans-serif" font-size="17" text-anchor="middle">
-    <rect x="228" y="232" width="176" height="36" rx="18" fill="none" stroke="url(#chipStroke)" stroke-width="1.6"/>
-    <text x="316" y="256" fill="#e6edf3">EMNLP 2026 &#215;2</text>
-    <rect x="422" y="232" width="146" height="36" rx="18" fill="none" stroke="url(#chipStroke)" stroke-width="1.6"/>
-    <text x="495" y="256" fill="#e6edf3">EMNLP 2025</text>
-    <rect x="586" y="232" width="166" height="36" rx="18" fill="none" stroke="url(#chipStroke)" stroke-width="1.6"/>
-    <text x="669" y="256" fill="#e6edf3">Fin-R1 &#9733; 800+</text>
-    <rect x="770" y="232" width="126" height="36" rx="18" fill="none" stroke="url(#chipStroke)" stroke-width="1.6"/>
-    <text x="833" y="256" fill="#e6edf3">6 Papers</text>
-    <rect x="914" y="232" width="146" height="36" rx="18" fill="none" stroke="url(#chipStroke)" stroke-width="1.6"/>
-    <text x="987" y="256" fill="#e6edf3">FinLLM &#183; RL</text>
+    <rect x="712" y="178" width="408" height="42" rx="10" fill="url(#card)" stroke="#ff7eb6" stroke-opacity="0.45"/>
+    <text x="732" y="205" font-size="18" fill="#e6edf3">6 Research Works · 2 First-author</text>
+
+    <rect x="712" y="230" width="408" height="42" rx="10" fill="url(#card)" stroke="#7ee787" stroke-opacity="0.45"/>
+    <text x="732" y="257" font-size="18" fill="#e6edf3">Benchmark · Post-Training · Business Value</text>
   </g>
 
-  <text x="600" y="306" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#7ee787">Open to 2027 New Grad &#183; LLM / Agent Algorithm Engineer</text>
+  <line x1="82" y1="284" x2="1118" y2="284" stroke="url(#accent)" stroke-opacity="0.28" stroke-width="1"/>
+  <text x="600" y="316" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#8b949e">上海财经大学 · 应用统计硕士 · 2027.06 毕业</text>
 </svg>
