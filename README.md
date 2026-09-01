@@ -20,5 +20,11 @@
 ![Agents](https://img.shields.io/badge/LLM_Agents-E67E22?style=flat)
 ![FinLLM](https://img.shields.io/badge/Financial_LLMs-C0392B?style=flat)
 
+![Followers](https://img.shields.io/github/followers/zlfuu531?label=Followers&logo=github&style=flat)
+![Total Stars](https://img.shields.io/github/stars/zlfuu531?label=Total%20Stars&logo=github&style=flat&affiliations=OWNER)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fzlfuu531&query=%24.public_repos&label=Public%20Repos&logo=github&style=flat)
+![Fin-R1 Stars](https://img.shields.io/github/stars/SUFE-AIFLM-Lab/Fin-R1?label=Fin-R1%20Stars&logo=github&style=flat)
+
+<!-- 想恢复 vercel 统计大卡片时,取消下面两行注释即可(服务恢复后可用):
 | ![zlfuu531's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zlfuu531&show_icons=true&count_private=true&hide_border=true) | ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zlfuu531&layout=compact&hide_border=true&langs_count=8) |
-| --- | --- |
+-->
