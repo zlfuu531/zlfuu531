@@ -1,30 +1,109 @@
-# Hi there, I'm zlfuu531 👋
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="zlfuu531 — LLM Post-Training · Data Synthesis · Evaluation &amp; Benchmarking">
+</p>
 
-🎓 M.S. candidate in **Applied Statistics** @ **Shanghai University of Finance and Economics (SUFE)**
-🔬 **LLM Post-Training** (SFT / DPO / GRPO) · **Data Synthesis** · **Evaluation & Benchmarking**
-📈 Focused on **Financial LLMs**, multimodal reasoning & agent evaluation — 3 papers accepted at **EMNLP 2025 / 2026**
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=8B949E&center=true&vCenter=true&width=640&lines=SFT+%C2%B7+DPO+%C2%B7+GRPO+post-training;multimodal+data+synthesis+%26+benchmark+construction;LLM+agents+%26+reward+models+for+finance" alt="Typing SVG"></a>
+</p>
 
-|  |  |
-| --- | --- |
-| <h4>💼 Internship Experience</h4>**Alibaba Group** — `Platform Technology · AI Data Synthesis Team` — `2026.03 – 2026.08`<br>*Data Algorithm Intern*<br><br>🔸 Designed financial Agent benchmark tasks (**ClawBench**): 40+ end-to-end long-horizon tasks covering 7 types of financial deliverables<br>🔸 Built a **400-question** financial multimodal eval set (L1–L4 difficulty screening, expert annotation, pass@8 re-filtering) and benchmarked **9 frontier models**<br>🔸 Independently built an in-house **evaluation & QC platform** for QA / multimodal / rubrics / Agent judging<br>🔸 First-authored **GEO-Poison-Bench**: 9 attack types × 18 domains, evaluated on 1,578 questions × 24 models<br><br>**Guotai Haitong Securities** — `FinTech · LLM Training` — `2025.05 – 2026.03`<br>*LLM Algorithm Intern*<br><br>🔸 Trained a **generative reward model** (SFT + GRPO on 16×A800) for margin-trading preference alignment — eval score **58 → 94**<br>🔸 Fine-tuned **Qwen3** (SFT + DPO on 16×H800) for the credit AI assistant: 3.79 → **6.09 / 10**; deployed and preferred by **63%** of users in 758 blind tests<br><br><h4>🎓 Education</h4>**SUFE** — *M.S. in Applied Statistics*, School of Statistics & Data Science `2024.09 – 2027.06 (expected)`<br><br>**SUFE** — *B.S. in Economic Statistics* `2020.09 – 2024.06` | <h4>📝 Publications</h4>🧾 **AgSynth** — *EMNLP 2026 · Co-first Author*<br>Multi-agent reverse synthesis framework for multimodal mathematical reasoning data generation<br><br>🧾 **UniFinEval** — *EMNLP 2026 · Co-first Author*<br>Unified evaluation of financial multimodal models across text, images & videos<br><br>🧾 **VisFinEval** — *EMNLP 2025 Main*<br>Scenario-driven Chinese multimodal benchmark for holistic financial understanding (15k+ QA)<br><br>🧾 **[Fin-R1](https://github.com/SUFE-AIFLM-Lab/Fin-R1)** — *JASA · Under Review*<br>DeepSeek-R1-style financial reasoning LLM via reinforcement learning — 🌟 **800+ stars** · 100+ citations<br><br>🧾 **GEO-Poison-Bench** — *AAAI 2027 · Under Review*<br>First systematic study on LLM robustness against GEO poisoning attacks<br><br>🧾 **FinGAIA** — *First Author*<br>Chinese benchmark for AI agents in real-world finance (407 tasks) — included in a Chinese industry group-standard whitepaper<br><br><h4>💻 Open Source Projects</h4>🔸 **[QualEval](https://github.com/zlfuu531/QualEval)** — local QC + evaluation framework: data import → QC → eval with full frontend operation<br>🔸 **[OpenReward-verl](https://github.com/zlfuu531/OpenReward-verl)** — generative reward model training on verl<br>🔸 **[VQA-Data-Generator](https://github.com/zlfuu531/VQA-Data-Generator)** — automated multimodal VQA data synthesis pipeline<br>🔸 **[OpenR1-GRPO](https://github.com/zlfuu531/OpenR1-GRPO)** — reproduction & training framework for R1-style GRPO<br>🔸 **[llm-study](https://github.com/zlfuu531/llm-study)** — LLM learning notes & curated resources<br><br><h4>🏆 Awards & Honors</h4>🥈 Silver Award, China International College Students' Innovation Competition (Shanghai Division, 2025)<br><br>🥇 First Prize, 10th "Huichuang Youth" Shanghai College Students Cultural & Creative Works Exhibition |
+<p align="center">
+  <em>M.S. in Applied Statistics @ Shanghai University of Finance and Economics (SUFE), 2024 – 2027</em><br>
+  <sub>B.S. in Economic Statistics @ SUFE, 2020 – 2024</sub>
+</p>
 
+> I build the **data and the yardsticks** that make LLMs better at finance — multimodal reasoning benchmarks (EMNLP ×3), an R1-style financial reasoning LLM (**Fin-R1**, 800+ ★), and agent benchmarks adopted by industry teams.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Papers-6_published-8b17b8?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Papers">
+  <img src="https://img.shields.io/badge/EMNLP-2025%20%26%202026-e05369?style=for-the-badge" alt="EMNLP">
+  <img src="https://img.shields.io/github/stars/SUFE-AIFLM-Lab/Fin-R1?style=for-the-badge&label=Fin-R1&logo=github" alt="Fin-R1 stars">
+  <img src="https://img.shields.io/badge/Interned_at-Alibaba%20%C2%B7%20Guotai%20Haitong-f0883e?style=for-the-badge" alt="Internships">
+  <img src="https://img.shields.io/badge/2027_New_Grad-Open_to_Work-2ea043?style=for-the-badge" alt="Open to work">
+</p>
+
+---
+
+## 💼 Internship Experience
+
+#### 🏢 Alibaba Group — Platform Technology · AI Data Synthesis Team
+`Data Algorithm Intern` · `2026.03 – 2026.08`
+
+- 🕹️ **Agent benchmark “ClawBench”** — designed **40+** end-to-end long-horizon financial agent tasks across **7** deliverable types
+- 🖼️ **Financial multimodal eval set** — **400** questions with L1–L4 difficulty filtering, expert annotation standards and pass@8 re-screening; benchmarked **9 frontier models**
+- ⚙️ **Evaluation & QC platform** — built solo, one-stop QA / multimodal / rubric / agent judging; ran **27 tasks in a single month**
+- 🧪 **First-author research** — **GEO-Poison-Bench**: 9 attack types × 18 domains, **1,578 questions × 24 models** leaderboard
+
+#### 🏦 Guotai Haitong Securities — FinTech
+`LLM Algorithm Intern` · `2025.05 – 2026.03`
+
+- 🎯 **Generative reward model** (Qwen3, SFT + GRPO on 16×A800) for margin-trading preference alignment — score **58 → 94**
+- 💬 **Credit AI assistant** (Qwen3-32B / 30B-A3B, SFT + DPO on 16×H800) — **3.79 → 6.09 / 10** (+60%), **deployed** to production; **63%** preference in **758** blind user tests
+
+---
+
+## 📝 Publications
+
+| Paper | Venue | Role |
+|:---|:---:|:---:|
+| **AgSynth** — multi-agent reverse synthesis for multimodal mathematical reasoning data | ![EMNLP 2026](https://img.shields.io/badge/EMNLP_2026-accepted-2ea043) | Co-first |
+| **UniFinEval** — unified financial multimodal evaluation across text · images · videos | ![EMNLP 2026](https://img.shields.io/badge/EMNLP_2026-accepted-2ea043) | Co-first |
+| **VisFinEval** — scenario-driven Chinese financial multimodal benchmark (15k+ QA) | ![EMNLP 2025](https://img.shields.io/badge/EMNLP_2025-main-2ea043) | Co-author |
+| **[Fin-R1](https://github.com/SUFE-AIFLM-Lab/Fin-R1)** — R1-style financial reasoning LLM via reinforcement learning, 100+ citations | ![JASA](https://img.shields.io/badge/JASA-under_review-58a6ff) | ![Stars](https://img.shields.io/github/stars/SUFE-AIFLM-Lab/Fin-R1?style=social) |
+| **GEO-Poison-Bench** — LLM robustness against GEO poisoning attacks | ![AAAI 2027](https://img.shields.io/badge/AAAI_2027-under_review-58a6ff) | **First** |
+| **FinGAIA** — Chinese benchmark for AI agents in real-world finance (407 tasks), included in an industry group-standard whitepaper | — | **First** |
+
+---
+
+## 💻 Open Source Projects
+
+| Project | About | Stars |
+|:---|:---|:---:|
+| **[QualEval](https://github.com/zlfuu531/QualEval)** | One-stop local QC + evaluation platform — data import → QC → eval, full frontend workflow | ![Stars](https://img.shields.io/github/stars/zlfuu531/QualEval?style=social) |
+| **[OpenReward-verl](https://github.com/zlfuu531/OpenReward-verl)** | Generative reward model training built on verl | ![Stars](https://img.shields.io/github/stars/zlfuu531/OpenReward-verl?style=social) |
+| **[VQA-Data-Generator](https://github.com/zlfuu531/VQA-Data-Generator)** | Automated multimodal VQA data synthesis pipeline | ![Stars](https://img.shields.io/github/stars/zlfuu531/VQA-Data-Generator?style=social) |
+| **[OpenR1-GRPO](https://github.com/zlfuu531/OpenR1-GRPO)** | Reproduction & training framework for R1-style GRPO reasoning | ![Stars](https://img.shields.io/github/stars/zlfuu531/OpenR1-GRPO?style=social) |
+| **[llm-study](https://github.com/zlfuu531/llm-study)** | LLM learning notes, Q&A and curated study resources | ![Stars](https://img.shields.io/github/stars/zlfuu531/llm-study?style=social) |
+
+---
+
+## 🛠️ Tech Stack
+
+<b>Languages & Frameworks</b><br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![verl](https://img.shields.io/badge/verl-1F2328?style=flat)
+![Transformers](https://img.shields.io/badge/%F0%9F%A4%97_Transformers-FFD21E?style=flat&logoColor=black)
 ![vLLM](https://img.shields.io/badge/vLLM-4B8BBE?style=flat)
-![Post-Training](https://img.shields.io/badge/Post--Training-SFT_%C2%B7_DPO_%C2%B7_GRPO-6A9FDB?style=flat)
+
+<b>Post-Training</b><br>
+![SFT](https://img.shields.io/badge/SFT-6A9FDB?style=flat)
+![DPO](https://img.shields.io/badge/DPO-6A9FDB?style=flat)
+![GRPO](https://img.shields.io/badge/GRPO-6A9FDB?style=flat)
+![verl](https://img.shields.io/badge/verl-1F2328?style=flat)
+
+<b>Data & Evaluation</b><br>
 ![Data Synthesis](https://img.shields.io/badge/Data_Synthesis-3E7CB1?style=flat)
-![Evaluation](https://img.shields.io/badge/Evaluation_%26_Benchmarks-2E8B57?style=flat)
+![Benchmarks](https://img.shields.io/badge/Benchmark_Construction-2E8B57?style=flat)
+![LLM-as-Judge](https://img.shields.io/badge/LLM_as_Judge-2E8B57?style=flat)
 ![Multimodal](https://img.shields.io/badge/Multimodal-9B59B6?style=flat)
 ![Agents](https://img.shields.io/badge/LLM_Agents-E67E22?style=flat)
 ![FinLLM](https://img.shields.io/badge/Financial_LLMs-C0392B?style=flat)
 
-![Followers](https://img.shields.io/github/followers/zlfuu531?label=Followers&logo=github&style=flat)
-![Total Stars](https://img.shields.io/github/stars/zlfuu531?label=Total%20Stars&logo=github&style=flat&affiliations=OWNER)
-![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fzlfuu531&query=%24.public_repos&label=Public%20Repos&logo=github&style=flat)
-![Fin-R1 Stars](https://img.shields.io/github/stars/SUFE-AIFLM-Lab/Fin-R1?label=Fin-R1%20Stars&logo=github&style=flat)
+---
 
-<!-- 想恢复 vercel 统计大卡片时,取消下面两行注释即可(服务恢复后可用):
-| ![zlfuu531's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zlfuu531&show_icons=true&count_private=true&hide_border=true) | ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zlfuu531&layout=compact&hide_border=true&langs_count=8) |
--->
+## 🏆 Awards
+
+🥈 **Silver Award** · China International College Students' Innovation Competition, Shanghai Division (2025) — plus First Prize at SUFE campus round<br>
+🥇 **First Prize** · 10th "Huichuang Youth" Shanghai College Students Cultural & Creative Works Exhibition
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg">
+    <img src="assets/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%">
+  </picture>
+</div>
+
+<div align="center">
+  <i>“Benchmarks tell you where a model lies; data decides how far it goes.”</i>
+</div>
