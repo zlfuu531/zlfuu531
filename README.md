@@ -7,20 +7,37 @@
 </p>
 
 <p align="center">
-  <em>M.S. in Applied Statistics, Shanghai University of Finance and Economics (SUFE) · 2024 – 2027</em><br>
-  <sub>B.S. in Economic Statistics, Shanghai University of Finance and Economics (SUFE) · 2020 – 2024</sub>
+  <img src="https://img.shields.io/badge/Papers-6_published-8b17b8?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Papers">
+  <img src="https://img.shields.io/badge/EMNLP-2025%20%26%202026-e05369?style=for-the-badge" alt="EMNLP">
+  <a href="https://scholar.google.com/citations?user=b69Frz4AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-100%2B_citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+  <br>
+  <img src="https://img.shields.io/github/stars/SUFE-AIFLM-Lab/Fin-R1?style=for-the-badge&label=Fin-R1&logo=github" alt="Fin-R1 stars">
+  <img src="https://img.shields.io/badge/Interned_at-Alibaba-f0883e?style=for-the-badge" alt="Interned at Alibaba">
+  <img src="https://img.shields.io/badge/2027_New_Grad-Open_to_Work-2ea043?style=for-the-badge" alt="Open to work">
 </p>
 
 > I build the **data and the yardsticks** that make LLMs better at finance — multimodal reasoning benchmarks (EMNLP ×3), an R1-style financial reasoning LLM (**Fin-R1**, 800+ ★), and agent benchmarks adopted by industry teams.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Papers-6_published-8b17b8?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Papers">
-  <img src="https://img.shields.io/badge/EMNLP-2025%20%26%202026-e05369?style=for-the-badge" alt="EMNLP">
-  <a href="https://scholar.google.com/citations?user=b69Frz4AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-100%2B_citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
-  <img src="https://img.shields.io/github/stars/SUFE-AIFLM-Lab/Fin-R1?style=for-the-badge&label=Fin-R1&logo=github" alt="Fin-R1 stars">
-  <img src="https://img.shields.io/badge/Interned_at-Alibaba%20%C2%B7%20Guotai%20Haitong-f0883e?style=for-the-badge" alt="Internships">
-  <img src="https://img.shields.io/badge/2027_New_Grad-Open_to_Work-2ea043?style=for-the-badge" alt="Open to work">
-</p>
+---
+
+## 🎓 Education
+
+<h3 align="center">Shanghai University of Finance and Economics <sub>(SUFE)</sub></h3>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <b>M.S. in Applied Statistics</b><br>
+      <sub>School of Statistics &amp; Data Science</sub><br>
+      <b>2024 – 2027</b>
+    </td>
+    <td width="50%" align="center">
+      <b>B.S. in Economic Statistics</b><br>
+      <sub>School of Statistics &amp; Data Science</sub><br>
+      <b>2020 – 2024</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -34,11 +51,32 @@
 - ⚙️ **Evaluation & QC platform** — built solo, one-stop QA / multimodal / rubric / agent judging; ran **27 tasks in a single month**
 - 🧪 **First-author research** — **[GEO-Poison-Bench](https://github.com/zlfuu531/GEO-Poison-Bench)**: 9 attack types × 18 domains, **1,578 questions × 24 models** leaderboard
 
-#### 🏦 Guotai Haitong Securities — FinTech
-`LLM Algorithm Intern` · `2025.05 – 2026.03`
+---
 
-- 🎯 **Generative reward model** (Qwen3, SFT + GRPO on 16×A800) for margin-trading preference alignment — score **58 → 94**
-- 💬 **Credit AI assistant** (Qwen3-32B / 30B-A3B, SFT + DPO on 16×H800) — **3.79 → 6.09 / 10** (+60%), **deployed** to production; **63%** preference in **758** blind user tests
+## 🚀 Project Experience
+
+#### 📊 FinEval — Financial LLM Evaluation Suite
+`Benchmark Construction` · `2024.12 – 2026.05`
+
+- 🖼️ **VisFinEval (EMNLP 2025)** — financial multimodal benchmark: **8** types of financial imagery (research reports, statements, candlestick charts…), 3-tier × **15** sub-scenario design; led the data synthesis framework → **15k+** QA pairs
+- 🎬 **UniFinEval (EMNLP 2026)** — unified multimodal evaluation across text · images · videos; built the entire data pipeline solo (cleaning → synthesis → QC → evaluation) → **3k+** cross-modal QA with multi-image, multi-hop reasoning and distractor settings
+- 🤖 **FinGAIA** — **407** fully hand-designed real-business agent tasks (calculator, code interpreter, retrieval, file tools); adopted into an industry group-standard whitepaper
+
+#### 🏦 Guotai Haitong Securities — Generative Reward Model Training
+`Preference Evaluation Model Training` · `2025.12 – 2026.03`
+
+- 🎯 Trained a **generative reward model** (Qwen3, SFT + GRPO on 16×A800) for margin-trading preference alignment — designed the 4-segment data format (think / rubric / process / answer) with multi-dimensional rewards → eval score **58 → 94**, precisely aligned with human preference
+
+#### 🏦 Guotai Haitong Securities — Credit AI Assistant · Margin Trading LLM
+`Domain LLM Training` · `2025.05 – 2025.07`
+
+- 💬 Fine-tuned **Qwen3-32B / Qwen3-30B-A3B** (SFT + DPO on 16×H800, with 8k SFT data, 7k DPO triplets and a 500-item eval set) for the credit business QA assistant — **3.79 → 6.09 / 10** (+60%), **deployed** to production; **63%** preference in **758** blind user tests
+
+#### 🧪 Fin-R1 — Financial Reasoning LLM
+`R1-style Reasoning Training + Domain Transfer` · `2025.02 – 2025.04`
+
+- 🔥 Built **China's first DeepSeek-R1-style financial reasoning LLM (7B)** — distilled **60k+** high-quality CoT data (dual-score filtering with DeepSeek-R1 + Qwen2.5-72B), SFT warm-up + GRPO with format & accuracy rewards
+- 🏆 Ranked **#2** (avg **75.2**) across **five** financial benchmarks, **SOTA** on ConvFinQA (85.0) & FinQA (76.0) — [open source](https://github.com/SUFE-AIFLM-Lab/Fin-R1) with **800+ stars** and **100+ citations**; transferred the pipeline to a stock-picking model (internal eval **26 → 59**)
 
 ---
 
