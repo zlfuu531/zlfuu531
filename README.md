@@ -20,5 +20,5 @@
 ![Agents](https://img.shields.io/badge/LLM_Agents-E67E22?style=flat)
 ![FinLLM](https://img.shields.io/badge/Financial_LLMs-C0392B?style=flat)
 
-| ![zlfuu531's GitHub stats](https://github-readme-stats-sigma-five.mu.vercel.app/api?username=zlfuu531&show_icons=true&count_private=true&hide_border=true) | ![Top Languages](https://github-readme-stats-sigma-five.mu.vercel.app/api/top-langs/?username=zlfuu531&layout=compact&hide_border=true&langs_count=8) |
+| ![zlfuu531's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zlfuu531&show_icons=true&count_private=true&hide_border=true) | ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zlfuu531&layout=compact&hide_border=true&langs_count=8) |
 | --- | --- |
