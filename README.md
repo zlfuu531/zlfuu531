@@ -1,139 +1,143 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="曾凌峰 zlfuu531 — LLM Post-Training · Data Synthesis · Evaluation &amp; Benchmarking">
+  <img src="assets/banner.svg" width="100%" alt="zlfuu531 — LLM Post-Training · Data Synthesis · Evaluation &amp; Benchmarking">
 </p>
 
 <p align="center">
-  <a href="mailto:zenglingfeng531@163.com"><img src="https://img.shields.io/badge/Email-zenglingfeng531%40163.com-0b6bcb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/zlfuu531"><img src="https://img.shields.io/badge/GitHub-zlfuu531-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=8B949E&center=true&vCenter=true&width=720&lines=6+papers+%C2%B7+EMNLP+2025+%26+2026;Fin-R1+%C2%B7+800%2B+stars+%C2%B7+100%2B+citations;reward+model+alignment+58+%E2%86%92+94;deployed+fintech+LLM+%C2%B7+63%25+user+preference" alt="Typing SVG"></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Papers-6_%C2%B7_3_accepted-8b17b8?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Papers">
+  <img src="https://img.shields.io/badge/EMNLP-2025%20%26%202026-e05369?style=for-the-badge" alt="EMNLP">
   <a href="https://scholar.google.com/citations?user=b69Frz4AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-100%2B_citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+  <br>
+  <img src="https://img.shields.io/github/stars/SUFE-AIFLM-Lab/Fin-R1?style=for-the-badge&label=Fin-R1&logo=github" alt="Fin-R1 stars">
+  <img src="https://img.shields.io/badge/Interned_at-Alibaba-f0883e?style=for-the-badge" alt="Interned at Alibaba">
+  <img src="https://img.shields.io/badge/2027_New_Grad-Open_to_Work-2ea043?style=for-the-badge" alt="Open to work">
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=8B949E&center=true&vCenter=true&width=640&lines=SFT+%C2%B7+DPO+%C2%B7+GRPO+post-training;multimodal+data+synthesis+%26+benchmark+construction;LLM+agents+%26+reward+models+for+finance" alt="Typing SVG"></a>
-</p>
-
-<p align="center">
-  <b>上海财经大学 · 应用统计硕士 · 2027.06 毕业</b> ｜
-  <b>求职方向：LLM 算法 / 后训练 / 数据与评测 / Agent / 多模态 / 金融 AI</b>
-</p>
-
-> **一句话介绍**：我做的事情是把“模型为什么不行”变成可复现的评测与训练闭环——从数据合成、SFT/DPO/GRPO 后训练，到 Agent、多模态与安全评测，再到业务落地和工程化交付。
+> I build the **data and the yardsticks** that make LLMs better at finance — multimodal reasoning benchmarks (EMNLP ×3), an R1-style financial reasoning LLM (**Fin-R1**, 800+ ★), and agent benchmarks adopted by industry teams.
 
 ---
 
-## 🧭 面试官 10 秒版
+## 🎓 Education
 
-| 方向 | 代表作 | 关键结果 |
-|:---|:---|:---|
-| **多模态 / 金融评测** | **[VisFinEval](https://github.com/SUFE-AIFLM-Lab/VisFinEval)**、**[UniFinEval](https://github.com/aifinlab/UniFinEval)** | EMNLP 2025 / EMNLP 2026；15k+ / 3k+ QA；跨文本·图像·视频 |
-| **Agent 评测** | **[FinGAIA](https://github.com/SUFE-AIFLM-Lab/FinGAIA)**、ClawBench | 407 个真实业务任务；40+ 长程端到端 Agent 任务；纳入行业团体标准白皮书 |
-| **模型后训练** | **[Fin-R1](https://github.com/SUFE-AIFLM-Lab/Fin-R1)**、GRM、信用 LLM | Fin-R1 平均 75.2、排名第 2；GRM 58 → 94；信用 AI 3.79 → 6.09/10 |
-| **安全 / 鲁棒性** | **[GEO-Poison-Bench](https://github.com/zlfuu531/GEO-Poison-Bench)** | 一作；9 攻击类型 × 18 行业；1,578 题 × 24 模型 |
-| **工程落地** | QualEval 评测平台、采购验收、质检 Agent | 单月 27 个评测任务；3000 题后训练数据验收；758 份盲测 63% 偏好 |
+<h3 align="center">Shanghai University of Finance and Economics <sub>(SUFE)</sub></h3>
 
----
-
-## 🎓 教育背景
-
-| 学历 | 学校 / 学院 | 专业 | 时间 |
-|:---|:---|:---|:---|
-| 硕士 | 上海财经大学 · 统计与数据科学学院 | 应用统计（专业硕士） | 2024.09 – 2027.06 |
-| 学士 | 上海财经大学 · 统计与数据科学学院 | 经济统计学 | 2020.09 – 2024.06 |
-
----
-
-## 💼 实习经历
-
-### 🏢 阿里巴巴集团 · 平台技术 · AI Data 数据合成团队
-**数据算法实习生** ｜ 2026.03 – 2026.08
-
-- 🕹️ **Agent 数据与评测**：主导金融 **ClawBench**，设计 40+ 道端到端长程 Agent 任务，覆盖 7 类金融产出物；参与构建 200 道金融财务真实场景 Agent 评测集。
-- 🖼️ **金融复杂多模态评测**：构建 400 道评测题，设计模型攻题 L1–L4 筛选、专家标注标准和 pass@8 复筛，完成 9 个前沿模型评测；头部模型 pass@2 仅 54%，平均每题约 4.29/9 个模型答对。
-- ⚙️ **评测 / 质检平台**：独立搭建本地化评测质检一体化平台，支持 QA、多模态、Rubric、Agent/ClawBench 多维裁判；7 月累计运行 27 个任务。
-- 🧪 **一作研究 [GEO-Poison-Bench](https://github.com/zlfuu531/GEO-Poison-Bench)**：9 种攻击类型 × 18 个行业，1,578 题 × 24 模型评测榜；仅少数强对齐模型持续抵抗投毒。
-- 📄 **共一研究 [AgSynth](https://github.com/Yaxuan7690/AgSynth)**：多智能体反向合成多模态数学推理数据；GRPO 训练后以不到 1 万条数据在主流数学多模态推理评测集上均实现提升（WeMath +7.42、LogicVista +9.15）。
-- 📦 **业务交付**：完成 1024 道考研金融题得分点生成与长文本 QA Rubric 优化（97/99 通过）；制定 3000 道金融后训练采购数据验收标准，覆盖难度门槛、双次独立多模型三档判定。
-
-### 🏦 国泰海通证券 · 生成式奖励模型训练
-**业务偏好评估模型训练** ｜ 2025.12 – 2026.03
-
-- 🎯 基于融资融券用户交互数据，训练 Qwen3-8B 生成式奖励模型，对候选回答进行偏好选择、质量评估与偏好标注。
-- 🧠 设计 think / rubric / process / answer 四段式数据格式；在 16×A800 上完成 SFT（16k）与 GRPO（10k），设计过程奖励、结果正确率奖励、格式奖励等多维激励机制。
-- 📊 构建 500 条完全人工标注对齐评测集；评测分数由 **58 提升至 94**，提升偏好标签一致性与可解释性，并实现与人工偏好的对齐。
-
-### 🏦 国泰海通证券 · 信用 AI 助手 · 融资融券大模型
-**垂类大模型训练** ｜ 2025.05 – 2025.07
-
-- 💬 面向融资融券信用业务问答，负责数据清洗、SFT 指令集、DPO 偏好三元组与评测集构建；对 Qwen3-32B / Qwen3-30B-A3B 在 16×H800 上完成 SFT + DPO 两阶段训练（8k SFT、7k DPO、500 评测）。
-- 📈 模型得分由基座 **3.79/10 → 6.09/10（+60.43%）**，解决部分业务问题“无法回答但幻觉回答”的问题。
-- ✅ 通过内部评测并用于信用业务问答场景；在 **758 份**盲测用户评估中获得 **63%** 用户偏好。
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <b>M.S. in Applied Statistics</b><br>
+      <sub>School of Statistics &amp; Data Science</sub><br>
+      <b>2024 – 2027</b>
+    </td>
+    <td width="50%" align="center">
+      <b>B.S. in Economic Statistics</b><br>
+      <sub>School of Statistics &amp; Data Science</sub><br>
+      <b>2020 – 2024</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🔬 项目与学术经历
+## 💼 Internship Experience
 
-### 📊 FinEval — 金融大模型评测体系
-**金融基准构建** ｜ 2024.12 – 2026.05
+#### 🏢 Alibaba Group — Platform Technology · AI Data Synthesis Team
+`Data Algorithm Intern` · `2026.03 – 2026.08`
 
-- 🖼️ **[VisFinEval](https://github.com/SUFE-AIFLM-Lab/VisFinEval)（EMNLP 2025 Main）**：覆盖研报、财报、K 线图等 8 类金融图像，参与前中后台三级和 15 种子场景设计，主导多模态数据合成框架，得到 15k+ 问答。
-- 🎬 **[UniFinEval](https://github.com/aifinlab/UniFinEval)（EMNLP 2026）**：面向文本、图像、视频的统一金融多模态评测，个人完成清洗、合成、质检、评测代码框架；构建 3k+ 跨模态 QA，覆盖多图、多视觉交叉推理、多跳推理与干扰设置。
-- 🤖 **[FinGAIA](https://github.com/SUFE-AIFLM-Lab/FinGAIA)**：主导 407 个完全人工设计的真实业务 Agent 任务，覆盖计算器、代码解释器、检索、文件处理等工具；成果纳入《金融大模型应用测评指南》团体标准白皮书。
-
-### 🧪 Fin-R1 — 金融推理大模型
-**R1 风格推理训练 + 垂类迁移** ｜ 2025.02 – 2025.04
-
-- 🔥 构建国内首个 DeepSeek-R1 风格金融推理模型（7B），利用 DeepSeek-R1 蒸馏 + Qwen2.5-72B 双重打分过滤，构建 60k+ 高质量 CoT 数据。
-- 🏆 搭建 SFT 预热 + GRPO 强化学习框架，设计格式奖励与准确率奖励；五个金融基准平均 **75.2、排名第 2**，ConvFinQA（85.0）、FinQA（76.0）取得 SOTA。
-- 🌐 开源 [Fin-R1](https://github.com/SUFE-AIFLM-Lab/Fin-R1)：**800+ stars、100+ citations**。
-- 🚀 将数据蒸馏、SFT + GRPO 与专项奖励函数迁移到财跃星辰挖票模型：内部评测 **26 → 59**，格式一致性 **99%**。
+- 🕹️ **Agent benchmark “ClawBench”** — designed **40+** end-to-end long-horizon financial agent tasks across **7** deliverable types; co-designed a **200-task** real-scenario agent eval set and built a **QC agent** for iterative refinement
+- 🖼️ **Financial multimodal eval set** — **400** questions with L1–L4 difficulty filtering, expert annotation standards and pass@8 re-screening; benchmarked **9 frontier models** (top model pass@2 only **54%**)
+- ⚙️ **Evaluation & QC platform** — built solo, one-stop QA / multimodal / rubric / agent judging, **27 tasks in a single month**; defined acceptance criteria for **3,000** purchased post-training samples (pass@1 <40% difficulty gate, dual multi-model review)
+- 📦 **Data delivery** — **1,024** exam-style finance questions with full scoring-point annotation; long-context QA rubric optimization (**97/99** pass)
+- 🧪 **First-author research — [GEO-Poison-Bench](https://github.com/zlfuu531/GEO-Poison-Bench)**: 9 attack types × 18 domains, **1,578 questions × 24 models** leaderboard
+- 📄 **Co-first research — [AgSynth](https://github.com/Yaxuan7690/AgSynth) (EMNLP 2026)**: <10k synthesized samples lift multimodal math reasoning (WeMath **+7.42**, LogicVista **+9.15**)
 
 ---
 
-## 📝 学术成果
+## 🚀 Project Experience
 
-| 成果 | 状态 | 角色 | 链接 |
-|:---|:---:|:---:|:---|
-| **AgSynth** — Multi-Agent Reverse Synthesis for Multimodal Mathematical Reasoning | EMNLP 2026 接收 | 共一 | [GitHub](https://github.com/Yaxuan7690/AgSynth) |
-| **UniFinEval** — Unified Financial Multimodal Evaluation across Text, Images & Videos | EMNLP 2026 接收 | 共一 | [GitHub](https://github.com/aifinlab/UniFinEval) |
-| **VisFinEval** — Scenario-Driven Chinese Multimodal Benchmark | EMNLP 2025 Main | 作者 | [GitHub](https://github.com/SUFE-AIFLM-Lab/VisFinEval) |
-| **Fin-R1** — Financial Reasoning LLM via RL | JASA 在修 | 作者 | [GitHub](https://github.com/SUFE-AIFLM-Lab/Fin-R1) |
-| **GEO-Poison-Bench** — LLM Robustness against GEO Poisoning | AAAI 2027 在投 | **一作** | [GitHub](https://github.com/zlfuu531/GEO-Poison-Bench) |
-| **FinGAIA** — Chinese Benchmark for AI Agents in Finance | 团体标准白皮书 | **一作** | [GitHub](https://github.com/SUFE-AIFLM-Lab/FinGAIA) |
+#### 📊 FinEval — Financial LLM Evaluation Suite
+`Benchmark Construction` · `2024.12 – 2026.05`
+
+- 🖼️ **[VisFinEval](https://github.com/SUFE-AIFLM-Lab/VisFinEval) (EMNLP 2025 Main)** — financial multimodal benchmark: **8** types of financial imagery (research reports, statements, candlestick charts…), 3-tier × **15** sub-scenario design; led the data synthesis framework → **15k+** QA pairs
+- 🎬 **[UniFinEval](https://github.com/aifinlab/UniFinEval) (EMNLP 2026)** — unified multimodal evaluation across text · images · videos; built the entire data pipeline solo (cleaning → synthesis → QC → evaluation) → **3k+** cross-modal QA with multi-image, multi-hop reasoning and distractor settings
+- 🤖 **[FinGAIA](https://github.com/SUFE-AIFLM-Lab/FinGAIA)** — **407** fully hand-designed real-business agent tasks (calculator, code interpreter, retrieval, file tools); adopted into an industry group-standard whitepaper
+
+#### 🏦 Guotai Haitong Securities — Generative Reward Model Training
+`Preference Evaluation Model Training` · `2025.12 – 2026.03`
+
+- 🎯 **Training** — distilled preference data in a 4-segment format (think / rubric / process / answer); SFT (16k) + GRPO (10k) on **16×A800** with process / accuracy / format rewards; built a **500-item** fully human-aligned eval set
+- 📈 **Result** — rubric-based multi-dimension scoring (accuracy, relevance, consistency, coverage, professionalism) with final preference selection; eval score **58 → 94**, precisely aligned with human preference
+
+#### 🏦 Guotai Haitong Securities — Credit AI Assistant · Margin Trading LLM
+`Domain LLM Training` · `2025.05 – 2025.07`
+
+- 💬 **Training** — SFT + DPO on **16×H800** (Qwen3-32B / Qwen3-30B-A3B; 8k SFT data, 7k DPO triplets, 500-item eval set with consistency-validated annotation prompts)
+- 🚀 **Deployment** — score **3.79 → 6.09 / 10** (+60%), fixed “cannot answer” vs “hallucinated answer” failure modes; **shipped to production** with **63%** preference in **758** blind user tests
+
+#### 🧪 Fin-R1 — Financial Reasoning LLM
+`R1-style Reasoning Training + Domain Transfer` · `2025.02 – 2025.04`
+
+- 🔥 Built **China's first DeepSeek-R1-style financial reasoning LLM (7B)** — distilled **60k+** high-quality CoT data (dual-score filtering with DeepSeek-R1 + Qwen2.5-72B), SFT warm-up + GRPO with format & accuracy rewards
+- 🏆 Ranked **#2** (avg **75.2**) across **five** financial benchmarks, **SOTA** on ConvFinQA (85.0) & FinQA (76.0) — [open source](https://github.com/SUFE-AIFLM-Lab/Fin-R1) with **800+ stars** and **100+ citations**; transferred the pipeline to a stock-picking model (internal eval **26 → 59**, format consistency **99%**)
 
 ---
 
-## 💻 开源与工程
+## 📝 Publications
 
-| 项目 | 说明 | 状态 |
+| Paper | Venue | Role |
+|:---|:---:|:---:|
+| **[AgSynth](https://github.com/Yaxuan7690/AgSynth)** — multi-agent reverse synthesis for multimodal mathematical reasoning data | ![EMNLP 2026](https://img.shields.io/badge/EMNLP_2026-accepted-2ea043) | Co-first |
+| **[UniFinEval](https://github.com/aifinlab/UniFinEval)** — unified financial multimodal evaluation across text · images · videos | ![EMNLP 2026](https://img.shields.io/badge/EMNLP_2026-accepted-2ea043) | Co-first |
+| **[VisFinEval](https://github.com/SUFE-AIFLM-Lab/VisFinEval)** — scenario-driven Chinese financial multimodal benchmark (15k+ QA) | ![EMNLP 2025](https://img.shields.io/badge/EMNLP_2025-main-2ea043) | Co-author |
+| **[Fin-R1](https://github.com/SUFE-AIFLM-Lab/Fin-R1)** — R1-style financial reasoning LLM via reinforcement learning, 100+ citations | ![JASA](https://img.shields.io/badge/JASA-under_review-58a6ff) | ![Stars](https://img.shields.io/github/stars/SUFE-AIFLM-Lab/Fin-R1?style=social) |
+| **[GEO-Poison-Bench](https://github.com/zlfuu531/GEO-Poison-Bench)** — LLM robustness against GEO poisoning attacks | ![AAAI 2027](https://img.shields.io/badge/AAAI_2027-under_review-58a6ff) | **First** |
+| **[FinGAIA](https://github.com/SUFE-AIFLM-Lab/FinGAIA)** — Chinese benchmark for AI agents in real-world finance (407 tasks) | ![Whitepaper](https://img.shields.io/badge/Industry_whitepaper-adopted-2ea043) | **First** |
+
+---
+
+## 💻 Open Source Projects
+
+| Project | About | Stars |
 |:---|:---|:---:|
-| **[Fin-R1](https://github.com/SUFE-AIFLM-Lab/Fin-R1)** | R1 风格金融推理大模型，SFT + GRPO | ![Stars](https://img.shields.io/github/stars/SUFE-AIFLM-Lab/Fin-R1?style=social) |
-| **[QualEval](https://github.com/zlfuu531/QualEval)** | 本地化 QC + 评测平台：数据导入 → QC → 评测全前端流程 | ![Stars](https://img.shields.io/github/stars/zlfuu531/QualEval?style=social) |
-| **[OpenReward-verl](https://github.com/zlfuu531/OpenReward-verl)** | 基于 verl 的生成式奖励模型训练：Rubric 偏好评估（SFT + GRPO） | ![Stars](https://img.shields.io/github/stars/zlfuu531/OpenReward-verl?style=social) |
-| **[VQA-Data-Generator](https://github.com/zlfuu531/VQA-Data-Generator)** | 多模态 VQA 数据合成 pipeline，支撑 UniFinEval 数据构建 | ![Stars](https://img.shields.io/github/stars/zlfuu531/VQA-Data-Generator?style=social) |
-| **[OpenR1-GRPO](https://github.com/zlfuu531/OpenR1-GRPO)** | R1 风格 GRPO 复现与训练框架 | ![Stars](https://img.shields.io/github/stars/zlfuu531/OpenR1-GRPO?style=social) |
-| **[llm-study](https://github.com/zlfuu531/llm-study)** | LLM 学习笔记、Q&A 与精选资源 | ![Stars](https://img.shields.io/github/stars/zlfuu531/llm-study?style=social) |
-| **[PaperHub](https://skymoon11.top/paper)** 🌐 | 自托管论文知识库 + AI Deep-Research Agent（Next.js · Prisma） | 在线 Demo；Repo 后续开源 |
+| **[PaperHub](https://skymoon11.top/paper)** 🌐 | Self-hosted paper research knowledge base — blog-style reading + AI Deep-Research agent that auto-crawls and structures papers (Next.js · Prisma) | ![Repo](https://img.shields.io/badge/repo-soon-8b949e) |
+| **[QualEval](https://github.com/zlfuu531/QualEval)** | One-stop local QC + evaluation platform — data import → QC → eval, full frontend workflow | ![Stars](https://img.shields.io/github/stars/zlfuu531/QualEval?style=social) |
+| **[OpenReward-verl](https://github.com/zlfuu531/OpenReward-verl)** | Generative reward model training on verl — rubric-based preference evaluation (SFT + GRPO) | ![Stars](https://img.shields.io/github/stars/zlfuu531/OpenReward-verl?style=social) |
+| **[VQA-Data-Generator](https://github.com/zlfuu531/VQA-Data-Generator)** | Multimodal VQA data synthesis pipeline — powers [UniFinEval](https://github.com/aifinlab/UniFinEval) data construction | ![Stars](https://img.shields.io/github/stars/zlfuu531/VQA-Data-Generator?style=social) |
+| **[OpenR1-GRPO](https://github.com/zlfuu531/OpenR1-GRPO)** | Reproduction & training framework for R1-style GRPO reasoning | ![Stars](https://img.shields.io/github/stars/zlfuu531/OpenR1-GRPO?style=social) |
+| **[llm-study](https://github.com/zlfuu531/llm-study)** | LLM learning notes, Q&A and curated study resources | ![Stars](https://img.shields.io/github/stars/zlfuu531/llm-study?style=social) |
 
 ---
 
-## 🛠️ 技术栈
+## 🛠️ Tech Stack
 
-**模型后训练**
-`SFT` · `DPO` · `GRPO` · `verl` · 数据蒸馏 · 奖励函数设计 · 消融实验 · 垂类迁移
+<b>Languages & Frameworks</b><br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/%F0%9F%A4%97_Transformers-FFD21E?style=flat&logoColor=black)
+![vLLM](https://img.shields.io/badge/vLLM-4B8BBE?style=flat)
 
-**数据与评测**
-数据合成 · Benchmark 构建 · 多模态 VQA · Agent 任务设计 · Rubric 设计 · LLM-as-Judge · pass@N 复筛 · 人工对齐评测 · 采购验收
+<b>Post-Training</b><br>
+![SFT](https://img.shields.io/badge/SFT-6A9FDB?style=flat)
+![DPO](https://img.shields.io/badge/DPO-6A9FDB?style=flat)
+![GRPO](https://img.shields.io/badge/GRPO-6A9FDB?style=flat)
+![verl](https://img.shields.io/badge/verl-1F2328?style=flat)
 
-**工程**
-Python · PyTorch · Transformers · vLLM · 评测平台 · 质检 Agent · 批量数据 pipeline · 全流程交付
+<b>Data & Evaluation</b><br>
+![Data Synthesis](https://img.shields.io/badge/Data_Synthesis-3E7CB1?style=flat)
+![Benchmarks](https://img.shields.io/badge/Benchmark_Construction-2E8B57?style=flat)
+![LLM-as-Judge](https://img.shields.io/badge/LLM_as_Judge-2E8B57?style=flat)
+![Multimodal](https://img.shields.io/badge/Multimodal-9B59B6?style=flat)
+![Agents](https://img.shields.io/badge/LLM_Agents-E67E22?style=flat)
+![FinLLM](https://img.shields.io/badge/Financial_LLMs-C0392B?style=flat)
 
 ---
 
-## 🏆 荣誉奖项
+## 🏆 Awards
 
-- 🥈 中国国际大学生创新大赛（2025）上海赛区 **银奖**
-- 🥇 中国国际大学生创新大赛（2025）上海财经大学校赛 **一等奖**
-- 🥇 第十届“汇创青春”上海大学生文化创意作品展示活动 **上海市一等奖**
+🥈 **Silver Award** · China International College Students' Innovation Competition, Shanghai Division (2025) — plus First Prize at SUFE campus round<br>
+🥇 **First Prize** · 10th "Huichuang Youth" Shanghai College Students Cultural & Creative Works Exhibition
 
 ---
 
@@ -142,10 +146,6 @@ Python · PyTorch · Transformers · vLLM · 评测平台 · 质检 Agent · 批
     <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg">
     <img src="assets/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%">
   </picture>
-</div>
-
-<div align="center">
-  <b>曾凌峰 · zlfuu531</b> ｜ <a href="mailto:zenglingfeng531@163.com">zenglingfeng531@163.com</a> ｜ <a href="https://github.com/zlfuu531">GitHub</a> ｜ <a href="https://scholar.google.com/citations?user=b69Frz4AAAAJ&hl=en">Google Scholar</a>
 </div>
 
 <div align="center">
