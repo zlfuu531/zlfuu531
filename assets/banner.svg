@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="zlfuu531 — LLM Post-Training, Data Synthesis, Evaluation &amp; Benchmarking">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1020"/>
+      <stop offset="55%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#1c1038"/>
+    </linearGradient>
+    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="45%" stop-color="#bc8cff"/>
+      <stop offset="100%" stop-color="#ff7eb6"/>
+    </linearGradient>
+    <linearGradient id="chipStroke" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#ff7eb6" stop-opacity="0.9"/>
+    </linearGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1.6" cy="1.6" r="1.6" fill="#388bfd" opacity="0.16"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="330" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="330" rx="18" fill="url(#dots)"/>
+
+  <circle cx="1070" cy="30" r="150" fill="#bc8cff" opacity="0.13"/>
+  <circle cx="80" cy="320" r="160" fill="#58a6ff" opacity="0.11"/>
+  <circle cx="640" cy="-50" r="100" fill="#ff7eb6" opacity="0.09"/>
+
+  <text x="1120" y="250" text-anchor="middle" font-family="Georgia, serif" font-size="150" fill="#58a6ff" opacity="0.07">&#931;</text>
+  <text x="95" y="150" text-anchor="middle" font-family="monospace" font-size="56" fill="#bc8cff" opacity="0.08">&lt;/&gt;</text>
+
+  <text x="600" y="76" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#8b949e" letter-spacing="6">HI, I AM</text>
+
+  <text x="600" y="152" text-anchor="middle" font-family="sans-serif" font-weight="bold" font-size="74" fill="url(#acc)" letter-spacing="2">zlfuu531</text>
+
+  <text x="600" y="198" text-anchor="middle" font-family="sans-serif" font-size="24" fill="#c9d1d9">LLM Post-Training &#183; Data Synthesis &#183; Evaluation &amp; Benchmarking</text>
+
+  <g font-family="sans-serif" font-size="17" text-anchor="middle">
+    <rect x="228" y="232" width="176" height="36" rx="18" fill="none" stroke="url(#chipStroke)" stroke-width="1.6"/>
+    <text x="316" y="256" fill="#e6edf3">EMNLP 2026 &#215;2</text>
+    <rect x="422" y="232" width="146" height="36" rx="18" fill="none" stroke="url(#chipStroke)" stroke-width="1.6"/>
+    <text x="495" y="256" fill="#e6edf3">EMNLP 2025</text>
+    <rect x="586" y="232" width="166" height="36" rx="18" fill="none" stroke="url(#chipStroke)" stroke-width="1.6"/>
+    <text x="669" y="256" fill="#e6edf3">Fin-R1 &#9733; 800+</text>
+    <rect x="770" y="232" width="126" height="36" rx="18" fill="none" stroke="url(#chipStroke)" stroke-width="1.6"/>
+    <text x="833" y="256" fill="#e6edf3">6 Papers</text>
+    <rect x="914" y="232" width="146" height="36" rx="18" fill="none" stroke="url(#chipStroke)" stroke-width="1.6"/>
+    <text x="987" y="256" fill="#e6edf3">FinLLM &#183; RL</text>
+  </g>
+
+  <text x="600" y="306" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#7ee787">Open to 2027 New Grad &#183; LLM / Agent Algorithm Engineer</text>
+</svg>
