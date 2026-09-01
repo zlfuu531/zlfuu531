@@ -31,7 +31,7 @@
 - 🕹️ **Agent benchmark “ClawBench”** — designed **40+** end-to-end long-horizon financial agent tasks across **7** deliverable types
 - 🖼️ **Financial multimodal eval set** — **400** questions with L1–L4 difficulty filtering, expert annotation standards and pass@8 re-screening; benchmarked **9 frontier models**
 - ⚙️ **Evaluation & QC platform** — built solo, one-stop QA / multimodal / rubric / agent judging; ran **27 tasks in a single month**
-- 🧪 **First-author research** — **GEO-Poison-Bench**: 9 attack types × 18 domains, **1,578 questions × 24 models** leaderboard
+- 🧪 **First-author research** — **[GEO-Poison-Bench](https://github.com/zlfuu531/GEO-Poison-Bench)**: 9 attack types × 18 domains, **1,578 questions × 24 models** leaderboard
 
 #### 🏦 Guotai Haitong Securities — FinTech
 `LLM Algorithm Intern` · `2025.05 – 2026.03`
@@ -45,12 +45,12 @@
 
 | Paper | Venue | Role |
 |:---|:---:|:---:|
-| **AgSynth** — multi-agent reverse synthesis for multimodal mathematical reasoning data | ![EMNLP 2026](https://img.shields.io/badge/EMNLP_2026-accepted-2ea043) | Co-first |
-| **UniFinEval** — unified financial multimodal evaluation across text · images · videos | ![EMNLP 2026](https://img.shields.io/badge/EMNLP_2026-accepted-2ea043) | Co-first |
-| **VisFinEval** — scenario-driven Chinese financial multimodal benchmark (15k+ QA) | ![EMNLP 2025](https://img.shields.io/badge/EMNLP_2025-main-2ea043) | Co-author |
+| **[AgSynth](https://github.com/Yaxuan7690/AgSynth)** — multi-agent reverse synthesis for multimodal mathematical reasoning data | ![EMNLP 2026](https://img.shields.io/badge/EMNLP_2026-accepted-2ea043) | Co-first |
+| **[UniFinEval](https://github.com/aifinlab/UniFinEval)** — unified financial multimodal evaluation across text · images · videos | ![EMNLP 2026](https://img.shields.io/badge/EMNLP_2026-accepted-2ea043) | Co-first |
+| **[VisFinEval](https://github.com/SUFE-AIFLM-Lab/VisFinEval)** — scenario-driven Chinese financial multimodal benchmark (15k+ QA) | ![EMNLP 2025](https://img.shields.io/badge/EMNLP_2025-main-2ea043) | Co-author |
 | **[Fin-R1](https://github.com/SUFE-AIFLM-Lab/Fin-R1)** — R1-style financial reasoning LLM via reinforcement learning, 100+ citations | ![JASA](https://img.shields.io/badge/JASA-under_review-58a6ff) | ![Stars](https://img.shields.io/github/stars/SUFE-AIFLM-Lab/Fin-R1?style=social) |
-| **GEO-Poison-Bench** — LLM robustness against GEO poisoning attacks | ![AAAI 2027](https://img.shields.io/badge/AAAI_2027-under_review-58a6ff) | **First** |
-| **FinGAIA** — Chinese benchmark for AI agents in real-world finance (407 tasks), included in an industry group-standard whitepaper | — | **First** |
+| **[GEO-Poison-Bench](https://github.com/zlfuu531/GEO-Poison-Bench)** — LLM robustness against GEO poisoning attacks | ![AAAI 2027](https://img.shields.io/badge/AAAI_2027-under_review-58a6ff) | **First** |
+| **[FinGAIA](https://github.com/SUFE-AIFLM-Lab/FinGAIA)** — Chinese benchmark for AI agents in real-world finance (407 tasks), included in an industry group-standard whitepaper | — | **First** |
 
 ---
 
@@ -59,8 +59,8 @@
 | Project | About | Stars |
 |:---|:---|:---:|
 | **[QualEval](https://github.com/zlfuu531/QualEval)** | One-stop local QC + evaluation platform — data import → QC → eval, full frontend workflow | ![Stars](https://img.shields.io/github/stars/zlfuu531/QualEval?style=social) |
-| **[OpenReward-verl](https://github.com/zlfuu531/OpenReward-verl)** | Generative reward model training built on verl | ![Stars](https://img.shields.io/github/stars/zlfuu531/OpenReward-verl?style=social) |
-| **[VQA-Data-Generator](https://github.com/zlfuu531/VQA-Data-Generator)** | Automated multimodal VQA data synthesis pipeline | ![Stars](https://img.shields.io/github/stars/zlfuu531/VQA-Data-Generator?style=social) |
+| **[OpenReward-verl](https://github.com/zlfuu531/OpenReward-verl)** | Generative reward model training on verl — rubric-based preference evaluation (SFT + GRPO) | ![Stars](https://img.shields.io/github/stars/zlfuu531/OpenReward-verl?style=social) |
+| **[VQA-Data-Generator](https://github.com/zlfuu531/VQA-Data-Generator)** | Multimodal VQA data synthesis pipeline — powers [UniFinEval](https://github.com/aifinlab/UniFinEval) data construction | ![Stars](https://img.shields.io/github/stars/zlfuu531/VQA-Data-Generator?style=social) |
 | **[OpenR1-GRPO](https://github.com/zlfuu531/OpenR1-GRPO)** | Reproduction & training framework for R1-style GRPO reasoning | ![Stars](https://img.shields.io/github/stars/zlfuu531/OpenR1-GRPO?style=social) |
 | **[llm-study](https://github.com/zlfuu531/llm-study)** | LLM learning notes, Q&A and curated study resources | ![Stars](https://img.shields.io/github/stars/zlfuu531/llm-study?style=social) |
 
