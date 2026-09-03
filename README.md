@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/2027_New_Grad-Open_to_Work-2ea043?style=for-the-badge" alt="Open to work">
 </p>
 
-> I build the **data and the yardsticks** that make LLMs better at finance — multimodal reasoning benchmarks (EMNLP ×3), an R1-style financial reasoning LLM (**Fin-R1**, 800+ ★), and agent benchmarks adopted by industry teams.
+> My focus is **evaluation and post-training for financial LLMs** — three financial multimodal benchmark papers at **EMNLP 2025 & 2026** (co-first on UniFinEval), core contributor to **Fin-R1**, an R1-style financial reasoning LLM (800+ ★, 100+ citations), and first author of **FinGAIA**, an agent benchmark included in an industry group-standard whitepaper.
 
 ---
 
