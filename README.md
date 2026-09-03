@@ -3,15 +3,15 @@
 </p>
 
 <p align="center">
-  <a href="#english"><img src="https://img.shields.io/badge/English-4285F4?style=for-the-badge" alt="English"></a>
-  <a href="#chinese"><img src="https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-2ea043?style=for-the-badge" alt="简体中文"></a>
+  <a href="#-english"><img src="https://img.shields.io/badge/English-4285F4?style=for-the-badge" alt="English"></a>
+  <a href="#-简体中文"><img src="https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-2ea043?style=for-the-badge" alt="简体中文"></a>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=8B949E&center=true&vCenter=true&width=720&lines=6+papers+%C2%B7+EMNLP+2025+%26+2026;Fin-R1+%C2%B7+800%2B+stars+%C2%B7+100%2B+citations;reward+model+alignment+58+%E2%86%92+94;deployed+fintech+LLM+%C2%B7+63%25+user+preference" alt="Typing SVG"></a>
 </p>
 
-<a id="english"></a>
+## 🇬🇧 English
 
 <p align="center">
   <img src="https://img.shields.io/badge/Papers-6_%C2%B7_3_accepted-8b17b8?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Papers">
@@ -127,8 +127,6 @@
 🥇 **First Prize** · 10th "Huichuang Youth" Shanghai College Students Cultural & Creative Works Exhibition
 
 ---
-
-<a id="chinese"></a>
 
 ## 🀄 简体中文
 
@@ -257,7 +255,7 @@
 </div>
 
 <div align="center">
-  <p><a href="#english"><b>↑ Back to English</b></a> · <a href="#chinese"><b>↑ 回到简体中文</b></a></p>
+  <p><a href="#-english"><b>↑ Back to English</b></a> · <a href="#-简体中文"><b>↑ 回到简体中文</b></a></p>
   <i>“Benchmarks tell you where a model lies; data decides how far it goes.”</i><br>
   <i>「基准告诉你模型在哪里,数据决定模型能走多远。」</i>
 </div>
