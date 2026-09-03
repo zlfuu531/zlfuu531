@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/2027_New_Grad-Open_to_Work-2ea043?style=for-the-badge" alt="Open to work">
 </p>
 
-> My focus is **data synthesis, evaluation, and post-training for LLMs** — three papers at **EMNLP 2025 & 2026** (financial multimodal benchmarks + multimodal math data synthesis, two co-first), core contributor to **Fin-R1**, an R1-style financial reasoning LLM (800+ ★, 100+ citations), and first author of **FinGAIA**, an agent benchmark included in an industry group-standard whitepaper.
+> My focus is **data synthesis, evaluation, and post-training for LLMs** — three papers at **EMNLP 2025 & 2026** (financial multimodal benchmarks + multimodal math data synthesis, two co-first), and core contributor to **Fin-R1**, an R1-style financial reasoning LLM (800+ ★, 100+ citations).
 
 ---
 
