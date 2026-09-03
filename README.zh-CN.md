@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=8B949E&center=true&vCenter=true&width=720&lines=6+%E7%AF%87%E8%AE%BA%E6%96%87+%C2%B7+EMNLP+2025+%26+2026;Fin-R1+%C2%B7+800%2B+stars+%C2%B7+100%2B+%E5%BC%95%E7%94%A8;%E5%A5%96%E5%8A%B1%E6%A8%A1%E5%9E%8B%E5%AF%B9%E9%BD%90+58+%E2%86%92+94;%E9%87%91%E8%9E%8D+LLM+%E4%B8%9A%E5%8A%A1%E8%90%BD%E5%9C%B0+%C2%B7+63%25+%E7%94%A8%E6%88%B7%E5%81%8F%E5%A5%BD" alt="Typing SVG"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=8B949E&center=true&vCenter=true&width=720&lines=6+%E7%AF%87%E8%AE%BA%E6%96%87+%C2%B7+3+%E7%AF%87+EMNLP+2025+%26+2026;Fin-R1+%C2%B7+800%2B+stars+%C2%B7+100%2B+%E5%BC%95%E7%94%A8;%E5%A5%96%E5%8A%B1%E6%A8%A1%E5%9E%8B%E5%AF%B9%E9%BD%90+58+%E2%86%92+94;%E9%87%91%E8%9E%8D+LLM+%E4%B8%9A%E5%8A%A1%E8%90%BD%E5%9C%B0+%C2%B7+63%25+%E7%94%A8%E6%88%B7%E5%81%8F%E5%A5%BD" alt="Typing SVG"></a>
 </p>
 
 <p align="center">
@@ -51,8 +51,8 @@
 #### 🏦 国泰海通证券 · 生成式奖励模型训练
 `偏好评估模型训练` · `2025.12 – 2026.03`
 
-- 🎯 **训练**——think / rubric / process / answer 四段式偏好数据蒸馏;16×A800 上完成 SFT(16k)+ GRPO(10k),设计过程奖励、正确率奖励、格式奖励多维激励机制;构建 **500 条**完全人工对齐的评测集
-- 📈 **效果**——围绕准确性、相关性、一致性、覆盖度、专业性生成多维 rubric 并给出最优偏好,评测分数 **58 → 94**,与人工偏好精准对齐
+- 🎯 **训练**——基于 Qwen3-8B,think / rubric / process / answer 四段式偏好数据蒸馏;16×A800 上完成 SFT(16k)+ GRPO(10k),设计过程奖励、正确率奖励、格式奖励多维激励机制;构建 **500 条**完全人工对齐的评测集
+- 📈 **效果**——围绕准确性、相关性、语义一致性、流畅性、覆盖度、专业性生成多维 rubric 并给出最优偏好,评测分数 **58 → 94**,与人工偏好精准对齐
 
 #### 🏦 国泰海通证券 · 信用 AI 助手 · 融资融券大模型
 `垂类大模型训练` · `2025.05 – 2025.07`
@@ -115,7 +115,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Transformers](https://img.shields.io/badge/%F0%9F%A4%97_Transformers-FFD21E?style=flat&logoColor=black)
-![vLLM](https://img.shields.io/badge/vLLM-4B8BBE?style=flat)
 `评测平台` `质检 Agent` `批量数据 pipeline`
 
 ---

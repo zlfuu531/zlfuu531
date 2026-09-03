@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=8B949E&center=true&vCenter=true&width=720&lines=6+papers+%C2%B7+EMNLP+2025+%26+2026;Fin-R1+%C2%B7+800%2B+stars+%C2%B7+100%2B+citations;reward+model+alignment+58+%E2%86%92+94;deployed+fintech+LLM+%C2%B7+63%25+user+preference" alt="Typing SVG"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=8B949E&center=true&vCenter=true&width=720&lines=6+papers+%C2%B7+3+at+EMNLP+2025+%26+2026;Fin-R1+%C2%B7+800%2B+stars+%C2%B7+100%2B+citations;reward+model+alignment+58+%E2%86%92+94;deployed+fintech+LLM+%C2%B7+63%25+user+preference" alt="Typing SVG"></a>
 </p>
 
 <p align="center">
@@ -51,8 +51,8 @@
 #### 🏦 Guotai Haitong Securities — Generative Reward Model Training
 `Preference Evaluation Model Training` · `2025.12 – 2026.03`
 
-- 🎯 **Training** — distilled preference data in a 4-segment format (think / rubric / process / answer); SFT (16k) + GRPO (10k) on **16×A800** with process / accuracy / format rewards; built a **500-item** fully human-aligned eval set
-- 📈 **Result** — rubric-based multi-dimension scoring (accuracy, relevance, consistency, coverage, professionalism) with final preference selection; eval score **58 → 94**, precisely aligned with human preference
+- 🎯 **Training** — distilled preference data in a 4-segment format (think / rubric / process / answer); SFT (16k) + GRPO (10k) on **16×A800** (Qwen3-8B) with process / accuracy / format rewards; built a **500-item** fully human-aligned eval set
+- 📈 **Result** — rubric-based multi-dimension scoring (accuracy, relevance, consistency, fluency, coverage, professionalism) with final preference selection; eval score **58 → 94**, precisely aligned with human preference
 
 #### 🏦 Guotai Haitong Securities — Credit AI Assistant · Margin Trading LLM
 `Domain LLM Training` · `2025.05 – 2025.07`
@@ -100,7 +100,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Transformers](https://img.shields.io/badge/%F0%9F%A4%97_Transformers-FFD21E?style=flat&logoColor=black)
-![vLLM](https://img.shields.io/badge/vLLM-4B8BBE?style=flat)
 
 <b>Post-Training</b><br>
 ![SFT](https://img.shields.io/badge/SFT-6A9FDB?style=flat)
