@@ -75,7 +75,7 @@
 | **[AgSynth](https://github.com/Yaxuan7690/AgSynth)** — 多智能体反向合成多模态数学推理数据 | ![EMNLP 2026](https://img.shields.io/badge/EMNLP_2026-%E5%B7%B2%E5%BD%95%E7%94%A8-2ea043) | 共一 |
 | **[UniFinEval](https://github.com/aifinlab/UniFinEval)** — 文本·图像·视频统一金融多模态评测;独立搭建数据管线(3k+ 跨模态 QA) | ![EMNLP 2026](https://img.shields.io/badge/EMNLP_2026-%E5%B7%B2%E5%BD%95%E7%94%A8-2ea043) | 共一 |
 | **[VisFinEval](https://github.com/SUFE-AIFLM-Lab/VisFinEval)** — 场景驱动的中文金融多模态基准(15k+ QA) | ![EMNLP 2025](https://img.shields.io/badge/EMNLP_2025-main-2ea043) | 作者 |
-| **[Fin-R1](https://github.com/SUFE-AIFLM-Lab/Fin-R1)** — 强化学习驱动的金融推理大模型,100+ 引用 | ![JASA](https://img.shields.io/badge/JASA-%E5%9C%A8%E4%BF%AE-58a6ff) | ![Stars](https://img.shields.io/github/stars/SUFE-AIFLM-Lab/Fin-R1?style=flat) |
+| **[Fin-R1](https://github.com/SUFE-AIFLM-Lab/Fin-R1)** — 强化学习驱动的金融推理大模型,100+ 引用 | ![JASA](https://img.shields.io/badge/JASA-%E5%9C%A8%E4%BF%AE-58a6ff) | 合著者 |
 | **[GEO-Poison-Bench](https://github.com/zlfuu531/GEO-Poison-Bench)** — LLM 对 GEO 投毒攻击的鲁棒性评测 | ![AAAI 2027](https://img.shields.io/badge/AAAI_2027-%E5%9C%A8%E6%8A%95-58a6ff) | **一作** |
 | **[FinGAIA](https://github.com/SUFE-AIFLM-Lab/FinGAIA)** — 真实金融场景 AI Agent 中文基准(407 任务) | ![白皮书](https://img.shields.io/badge/%E8%A1%8C%E4%B8%9A%E7%99%BD%E7%9A%AE%E4%B9%A6-%E7%BA%B3%E5%85%A5-2ea043) | **一作** |
 
@@ -83,14 +83,14 @@
 
 ## 💻 开源项目
 
-| 项目 | 说明 | Stars |
-|:---|:---|:---:|
-| **[PaperHub](https://skymoon11.top/paper)** 🌐 | 自托管论文调研知识库——博客式阅读 + AI Deep-Research Agent 自动抓取并结构化入库(Next.js · Prisma) | ![Repo](https://img.shields.io/badge/repo-soon-8b949e) |
-| **[QualEval](https://github.com/zlfuu531/QualEval)** | 本地化质检 + 评测平台:数据导入 → 质检 → 评测全前端操作 | ![Stars](https://img.shields.io/github/stars/zlfuu531/QualEval?style=flat) |
-| **[OpenReward-verl](https://github.com/zlfuu531/OpenReward-verl)** | 基于 verl 的生成式奖励模型训练:Rubric 偏好评估(SFT + GRPO) | ![Stars](https://img.shields.io/github/stars/zlfuu531/OpenReward-verl?style=flat) |
-| **[VQA-Data-Generator](https://github.com/zlfuu531/VQA-Data-Generator)** | 多模态 VQA 数据合成管线,支撑 [UniFinEval](https://github.com/aifinlab/UniFinEval) 数据构建 | ![Stars](https://img.shields.io/github/stars/zlfuu531/VQA-Data-Generator?style=flat) |
-| **[OpenR1-GRPO](https://github.com/zlfuu531/OpenR1-GRPO)** | R1 式 GRPO 复现与训练框架 | ![Stars](https://img.shields.io/github/stars/zlfuu531/OpenR1-GRPO?style=flat) |
-| **[llm-study](https://github.com/zlfuu531/llm-study)** | LLM 学习笔记、Q&A 与精选资源 | ![Stars](https://img.shields.io/github/stars/zlfuu531/llm-study?style=flat) |
+| 项目 | 说明 |
+|:---|:---|
+| **[PaperHub](https://skymoon11.top/paper)** 🌐 | 自托管论文调研知识库——博客式阅读 + AI Deep-Research Agent 自动抓取并结构化入库(Next.js · Prisma) · ![Repo](https://img.shields.io/badge/repo-soon-8b949e) |
+| **[QualEval](https://github.com/zlfuu531/QualEval)** | 本地化质检 + 评测平台:数据导入 → 质检 → 评测全前端操作 |
+| **[OpenReward-verl](https://github.com/zlfuu531/OpenReward-verl)** | 基于 verl 的生成式奖励模型训练:Rubric 偏好评估(SFT + GRPO) |
+| **[VQA-Data-Generator](https://github.com/zlfuu531/VQA-Data-Generator)** | 多模态 VQA 数据合成管线,支撑 [UniFinEval](https://github.com/aifinlab/UniFinEval) 数据构建 |
+| **[OpenR1-GRPO](https://github.com/zlfuu531/OpenR1-GRPO)** | R1 式 GRPO 复现与训练框架 |
+| **[llm-study](https://github.com/zlfuu531/llm-study)** | LLM 学习笔记、Q&A 与精选资源 |
 
 ---
 

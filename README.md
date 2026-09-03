@@ -75,7 +75,7 @@
 | **[AgSynth](https://github.com/Yaxuan7690/AgSynth)** — multi-agent reverse synthesis for multimodal mathematical reasoning data | ![EMNLP 2026](https://img.shields.io/badge/EMNLP_2026-accepted-2ea043) | Co-first |
 | **[UniFinEval](https://github.com/aifinlab/UniFinEval)** — unified financial multimodal evaluation across text · images · videos; solo-built data pipeline (3k+ cross-modal QA) | ![EMNLP 2026](https://img.shields.io/badge/EMNLP_2026-accepted-2ea043) | Co-first |
 | **[VisFinEval](https://github.com/SUFE-AIFLM-Lab/VisFinEval)** — scenario-driven Chinese financial multimodal benchmark (15k+ QA) | ![EMNLP 2025](https://img.shields.io/badge/EMNLP_2025-main-2ea043) | Co-author |
-| **[Fin-R1](https://github.com/SUFE-AIFLM-Lab/Fin-R1)** — R1-style financial reasoning LLM via reinforcement learning, 100+ citations | ![JASA](https://img.shields.io/badge/JASA-under_review-58a6ff) | ![Stars](https://img.shields.io/github/stars/SUFE-AIFLM-Lab/Fin-R1?style=flat) |
+| **[Fin-R1](https://github.com/SUFE-AIFLM-Lab/Fin-R1)** — R1-style financial reasoning LLM via reinforcement learning, 100+ citations | ![JASA](https://img.shields.io/badge/JASA-under_review-58a6ff) | Co-author |
 | **[GEO-Poison-Bench](https://github.com/zlfuu531/GEO-Poison-Bench)** — LLM robustness against GEO poisoning attacks | ![AAAI 2027](https://img.shields.io/badge/AAAI_2027-under_review-58a6ff) | **First** |
 | **[FinGAIA](https://github.com/SUFE-AIFLM-Lab/FinGAIA)** — Chinese benchmark for AI agents in real-world finance (407 tasks) | ![Whitepaper](https://img.shields.io/badge/Industry_whitepaper-adopted-2ea043) | **First** |
 
@@ -83,14 +83,14 @@
 
 ## 💻 Open Source Projects
 
-| Project | About | Stars |
-|:---|:---|:---:|
-| **[PaperHub](https://skymoon11.top/paper)** 🌐 | Self-hosted paper research knowledge base — blog-style reading + AI Deep-Research agent that auto-crawls and structures papers (Next.js · Prisma) | ![Repo](https://img.shields.io/badge/repo-soon-8b949e) |
-| **[QualEval](https://github.com/zlfuu531/QualEval)** | One-stop local QC + evaluation platform — data import → QC → eval, full frontend workflow | ![Stars](https://img.shields.io/github/stars/zlfuu531/QualEval?style=flat) |
-| **[OpenReward-verl](https://github.com/zlfuu531/OpenReward-verl)** | Generative reward model training on verl — rubric-based preference evaluation (SFT + GRPO) | ![Stars](https://img.shields.io/github/stars/zlfuu531/OpenReward-verl?style=flat) |
-| **[VQA-Data-Generator](https://github.com/zlfuu531/VQA-Data-Generator)** | Multimodal VQA data synthesis pipeline — powers [UniFinEval](https://github.com/aifinlab/UniFinEval) data construction | ![Stars](https://img.shields.io/github/stars/zlfuu531/VQA-Data-Generator?style=flat) |
-| **[OpenR1-GRPO](https://github.com/zlfuu531/OpenR1-GRPO)** | Reproduction & training framework for R1-style GRPO reasoning | ![Stars](https://img.shields.io/github/stars/zlfuu531/OpenR1-GRPO?style=flat) |
-| **[llm-study](https://github.com/zlfuu531/llm-study)** | LLM learning notes, Q&A and curated study resources | ![Stars](https://img.shields.io/github/stars/zlfuu531/llm-study?style=flat) |
+| Project | About |
+|:---|:---|
+| **[PaperHub](https://skymoon11.top/paper)** 🌐 | Self-hosted paper research knowledge base — blog-style reading + AI Deep-Research agent that auto-crawls and structures papers (Next.js · Prisma) · ![Repo](https://img.shields.io/badge/repo-soon-8b949e) |
+| **[QualEval](https://github.com/zlfuu531/QualEval)** | One-stop local QC + evaluation platform — data import → QC → eval, full frontend workflow |
+| **[OpenReward-verl](https://github.com/zlfuu531/OpenReward-verl)** | Generative reward model training on verl — rubric-based preference evaluation (SFT + GRPO) |
+| **[VQA-Data-Generator](https://github.com/zlfuu531/VQA-Data-Generator)** | Multimodal VQA data synthesis pipeline — powers [UniFinEval](https://github.com/aifinlab/UniFinEval) data construction |
+| **[OpenR1-GRPO](https://github.com/zlfuu531/OpenR1-GRPO)** | Reproduction & training framework for R1-style GRPO reasoning |
+| **[llm-study](https://github.com/zlfuu531/llm-study)** | LLM learning notes, Q&A and curated study resources |
 
 ---
 
