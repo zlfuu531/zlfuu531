@@ -44,13 +44,6 @@
 
 ## 🚀 Project Experience
 
-#### 📊 FinEval — Financial LLM Evaluation Suite
-`Benchmark Construction` · `2024.12 – 2026.05`
-
-- 🖼️ **[VisFinEval](https://github.com/SUFE-AIFLM-Lab/VisFinEval) (EMNLP 2025 Main)** — financial multimodal benchmark: **8** types of financial imagery (research reports, statements, candlestick charts…), 3-tier × **15** sub-scenario design; led the data synthesis framework → **15k+** QA pairs
-- 🎬 **[UniFinEval](https://github.com/aifinlab/UniFinEval) (EMNLP 2026)** — unified multimodal evaluation across text · images · videos; built the entire data pipeline solo (cleaning → synthesis → QC → evaluation) → **3k+** cross-modal QA with multi-image, multi-hop reasoning and distractor settings
-- 🤖 **[FinGAIA](https://github.com/SUFE-AIFLM-Lab/FinGAIA)** — **407** fully hand-designed real-business agent tasks (calculator, code interpreter, retrieval, file tools); adopted into an industry group-standard whitepaper
-
 #### 🏦 Guotai Haitong Securities — Generative Reward Model Training
 `Preference Evaluation Model Training` · `2025.12 – 2026.03`
 
@@ -76,7 +69,7 @@
 | Paper | Venue | Role |
 |:---|:---:|:---:|
 | **[AgSynth](https://github.com/Yaxuan7690/AgSynth)** — multi-agent reverse synthesis for multimodal mathematical reasoning data | ![EMNLP 2026](https://img.shields.io/badge/EMNLP_2026-accepted-2ea043) | Co-first |
-| **[UniFinEval](https://github.com/aifinlab/UniFinEval)** — unified financial multimodal evaluation across text · images · videos | ![EMNLP 2026](https://img.shields.io/badge/EMNLP_2026-accepted-2ea043) | Co-first |
+| **[UniFinEval](https://github.com/aifinlab/UniFinEval)** — unified financial multimodal evaluation across text · images · videos; solo-built data pipeline (3k+ cross-modal QA) | ![EMNLP 2026](https://img.shields.io/badge/EMNLP_2026-accepted-2ea043) | Co-first |
 | **[VisFinEval](https://github.com/SUFE-AIFLM-Lab/VisFinEval)** — scenario-driven Chinese financial multimodal benchmark (15k+ QA) | ![EMNLP 2025](https://img.shields.io/badge/EMNLP_2025-main-2ea043) | Co-author |
 | **[Fin-R1](https://github.com/SUFE-AIFLM-Lab/Fin-R1)** — R1-style financial reasoning LLM via reinforcement learning, 100+ citations | ![JASA](https://img.shields.io/badge/JASA-under_review-58a6ff) | ![Stars](https://img.shields.io/github/stars/SUFE-AIFLM-Lab/Fin-R1?style=flat) |
 | **[GEO-Poison-Bench](https://github.com/zlfuu531/GEO-Poison-Bench)** — LLM robustness against GEO poisoning attacks | ![AAAI 2027](https://img.shields.io/badge/AAAI_2027-under_review-58a6ff) | **First** |
