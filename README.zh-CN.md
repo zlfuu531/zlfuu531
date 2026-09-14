@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=8B949E&center=true&vCenter=true&width=720&lines=6+%E7%AF%87%E8%AE%BA%E6%96%87+%C2%B7+3+%E7%AF%87+EMNLP+2025+%26+2026;Fin-R1+%C2%B7+800%2B+stars+%C2%B7+100%2B+%E5%BC%95%E7%94%A8;%E5%A5%96%E5%8A%B1%E6%A8%A1%E5%9E%8B%E5%AF%B9%E9%BD%90+58+%E2%86%92+94;%E9%87%91%E8%9E%8D+LLM+%E4%B8%9A%E5%8A%A1%E8%90%BD%E5%9C%B0+%C2%B7+63%25+%E7%94%A8%E6%88%B7%E5%81%8F%E5%A5%BD" alt="Typing SVG"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=8B949E&center=true&vCenter=true&width=720&lines=6+%E7%AF%87%E8%AE%BA%E6%96%87+%C2%B7+3+%E7%AF%87+EMNLP+2025+%26+2026;Fin-R1+%C2%B7+800%2B+stars+%C2%B7+100%2B+%E5%BC%95%E7%94%A8;%E5%A5%96%E5%8A%B1%E6%A8%A1%E5%9E%8B%E5%AF%B9%E9%BD%90+58+%E2%86%92+94;%E9%87%91%E8%9E%8D+LLM+%E4%B8%9A%E5%8A%A1%E8%90%BD%E5%9C%B0+%C2%B7+63%25+%E7%94%A8%E6%88%B7%E5%81%8F%E5%A5%BD;%E8%87%AA%E5%BB%BA%E8%87%AA%E6%89%98%E7%AE%A1%E7%9A%84%E5%8D%9A%E5%AE%A2+%26+%E8%AE%BA%E6%96%87%E7%9F%A5%E8%AF%86%E5%BA%93+%C2%B7+skymoon11.top" alt="Typing SVG"></a>
 </p>
 
 <p align="center">
@@ -18,6 +18,9 @@
   <img src="https://img.shields.io/github/stars/SUFE-AIFLM-Lab/Fin-R1?style=for-the-badge&label=Fin-R1&logo=github" alt="Fin-R1 stars">
   <img src="https://img.shields.io/badge/%E5%AE%9E%E4%B9%A0%E4%BA%8E-%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4-f0883e?style=for-the-badge" alt="实习于阿里巴巴">
   <img src="https://img.shields.io/badge/2027%E5%B1%8A-%E6%B1%82%E8%81%8C%E4%B8%AD-2ea043?style=for-the-badge" alt="2027届求职中">
+  <br>
+  <a href="https://skymoon11.top/space"><img src="https://img.shields.io/badge/%E6%98%9F%E8%88%AA%E6%A1%A3%E6%A1%88-%E5%8D%9A%E5%AE%A2-6C5CE7?style=for-the-badge&logo=rss&logoColor=white" alt="星航档案 博客"></a>
+  <a href="https://skymoon11.top/paper"><img src="https://img.shields.io/badge/PaperHub-%E5%9C%A8%E7%BA%BF-3E7CB1?style=for-the-badge&logo=readthedocs&logoColor=white" alt="PaperHub 在线"></a>
 </p>
 
 > 我的方向是 **LLM 的数据合成、评测与后训练**——三篇论文发表于 EMNLP 2025 & 2026(金融多模态基准 + 多模态数学数据合成,两篇共一);作为核心成员构建 Fin-R1 金融推理大模型(800+ ★、100+ 引用)。
@@ -81,11 +84,21 @@
 
 ---
 
+## 🌐 在线作品
+
+两个完全由我独立设计、开发并部署在自己服务器上的站点——均可直接访问 **[skymoon11.top](https://skymoon11.top)**(个人独立开发,AI 辅助工作流)。
+
+| 站点 | 说明 |
+|:---|:---|
+| **[星航档案](https://skymoon11.top/space)** 🌌 | 从零自建的自托管博客与档案站——日记、长文、链接与照片被整理成一颗颗可漫游的「星」,支持**公开 / 拿到链接可见 / 私密**三档可见性,以及标签、归档、全文搜索与 RSS(Next.js) |
+| **[PaperHub](https://skymoon11.top/paper)** 📚 | Agent 驱动的论文调研知识库——LLM Agent 自动抓取并结构化论文,已收录 **239** 篇,可按会议 · 重要度 · 开源情况 · 方向筛选(Next.js · Prisma) |
+
+---
+
 ## 💻 开源项目
 
 | 项目 | 说明 |
 |:---|:---|
-| **[PaperHub](https://skymoon11.top/paper)** 🌐 | 自托管论文调研知识库——博客式阅读 + AI Deep-Research Agent 自动抓取并结构化入库(Next.js · Prisma) · ![Repo](https://img.shields.io/badge/repo-soon-8b949e) |
 | **[QualEval](https://github.com/zlfuu531/QualEval)** | 本地化质检 + 评测平台:数据导入 → 质检 → 评测全前端操作 |
 | **[OpenReward-verl](https://github.com/zlfuu531/OpenReward-verl)** | 基于 verl 的生成式奖励模型训练:Rubric 偏好评估(SFT + GRPO) |
 | **[VQA-Data-Generator](https://github.com/zlfuu531/VQA-Data-Generator)** | 多模态 VQA 数据合成管线,支撑 [UniFinEval](https://github.com/aifinlab/UniFinEval) 数据构建 |

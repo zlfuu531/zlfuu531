@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=8B949E&center=true&vCenter=true&width=720&lines=6+papers+%C2%B7+3+at+EMNLP+2025+%26+2026;Fin-R1+%C2%B7+800%2B+stars+%C2%B7+100%2B+citations;reward+model+alignment+58+%E2%86%92+94;deployed+fintech+LLM+%C2%B7+63%25+user+preference" alt="Typing SVG"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=8B949E&center=true&vCenter=true&width=720&lines=6+papers+%C2%B7+3+at+EMNLP+2025+%26+2026;Fin-R1+%C2%B7+800%2B+stars+%C2%B7+100%2B+citations;reward+model+alignment+58+%E2%86%92+94;deployed+fintech+LLM+%C2%B7+63%25+user+preference;live+blog+%26+paper+agent+%C2%B7+skymoon11.top" alt="Typing SVG"></a>
 </p>
 
 <p align="center">
@@ -18,6 +18,9 @@
   <img src="https://img.shields.io/github/stars/SUFE-AIFLM-Lab/Fin-R1?style=for-the-badge&label=Fin-R1&logo=github" alt="Fin-R1 stars">
   <img src="https://img.shields.io/badge/Interned_at-Alibaba-f0883e?style=for-the-badge" alt="Interned at Alibaba">
   <img src="https://img.shields.io/badge/2027_New_Grad-Open_to_Work-2ea043?style=for-the-badge" alt="Open to work">
+  <br>
+  <a href="https://skymoon11.top/space"><img src="https://img.shields.io/badge/%E6%98%9F%E8%88%AA%E6%A1%A3%E6%A1%88-Blog-6C5CE7?style=for-the-badge&logo=rss&logoColor=white" alt="星航档案 Blog"></a>
+  <a href="https://skymoon11.top/paper"><img src="https://img.shields.io/badge/PaperHub-Live-3E7CB1?style=for-the-badge&logo=readthedocs&logoColor=white" alt="PaperHub Live"></a>
 </p>
 
 > My focus is **data synthesis, evaluation, and post-training for LLMs** — three papers at **EMNLP 2025 & 2026** (financial multimodal benchmarks + multimodal math data synthesis, two co-first), and core contributor to **Fin-R1**, an R1-style financial reasoning LLM (800+ ★, 100+ citations).
@@ -81,11 +84,21 @@
 
 ---
 
+## 🌐 Live Projects
+
+Two sites I design, build and deploy myself on my own server — both live at **[skymoon11.top](https://skymoon11.top)** (solo build, AI-assisted workflow).
+
+| Site | What it is |
+|:---|:---|
+| **[星航档案 · Star Voyage Archive](https://skymoon11.top/space)** 🌌 | Self-hosted personal blog & archive, built from scratch — diaries, long-form posts, links and photos organised into browsable "star fields", with **public / link-only / private** visibility tiers, tags, archive, full-text search and RSS (Next.js) |
+| **[PaperHub](https://skymoon11.top/paper)** 📚 | Agent-driven paper research knowledge base — an LLM agent crawls and structures papers into searchable Chinese digests; **239** papers indexed and filterable by venue · importance · open-source status · direction (Next.js · Prisma) |
+
+---
+
 ## 💻 Open Source Projects
 
 | Project | About |
 |:---|:---|
-| **[PaperHub](https://skymoon11.top/paper)** 🌐 | Self-hosted paper research knowledge base — blog-style reading + AI Deep-Research agent that auto-crawls and structures papers (Next.js · Prisma) · ![Repo](https://img.shields.io/badge/repo-soon-8b949e) |
 | **[QualEval](https://github.com/zlfuu531/QualEval)** | One-stop local QC + evaluation platform — data import → QC → eval, full frontend workflow |
 | **[OpenReward-verl](https://github.com/zlfuu531/OpenReward-verl)** | Generative reward model training on verl — rubric-based preference evaluation (SFT + GRPO) |
 | **[VQA-Data-Generator](https://github.com/zlfuu531/VQA-Data-Generator)** | Multimodal VQA data synthesis pipeline — powers [UniFinEval](https://github.com/aifinlab/UniFinEval) data construction |
